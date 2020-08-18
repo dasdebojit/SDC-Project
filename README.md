@@ -1,6 +1,6 @@
 # SDC-Project
 
-Import the following modules using <b>pip install [module_name]</b>
+Import the following modules using <b>pip install <module_name></b>
 <ul> 
 <li> requests </li>
 <li> geopy </li>
